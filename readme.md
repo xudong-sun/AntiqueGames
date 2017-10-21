@@ -8,16 +8,17 @@ I wrote most of the games using the crt library, so there should be menus, and c
 
 ## How to run
 You can build from source with a PASCAL compiler. 
+
 I also find the compiled exe files (I believe those were compiled using FreePascal 2.0.4 IDE). However, since the file-paths were hard-coded, you have to respect my absolute paths...
 
 Enjoy!
 
 ## Screenshots
-- BusDriving:
+- BusDriving \\
 ![BusDriving]([screenshots]/BusDriving.png)
 
-- CardFitting:
+- CardFitting \\
 ![CardFitting]([screenshots]/CardFitting.png)
 
-- Race:
+- Race \\
 ![Race]([screenshots]/Race.png)
