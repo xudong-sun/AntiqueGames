@@ -14,11 +14,14 @@ I also find the compiled exe files (I believe those were compiled using FreePasc
 Enjoy!
 
 ## Screenshots
-- BusDriving \\
+- BusDriving
+
 ![BusDriving]([screenshots]/BusDriving.png)
 
-- CardFitting \\
+- CardFitting
+
 ![CardFitting]([screenshots]/CardFitting.png)
 
-- Race \\
+- Race
+
 ![Race]([screenshots]/Race.png)
